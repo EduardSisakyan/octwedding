@@ -79,7 +79,7 @@ function App() {
             <div className='top'>
               <img src={Img1} alt='' />
             </div>
-            <h4>ՊՍԱԿԻ ԱՐԱՐՈՂՈՒԹՅՈՒՆ</h4>
+            <h4>ՊՍԱԿԱԴՐՈՒԹՅՈՒՆ</h4>
             <p className='time'>Ժամը 13:30-ին</p>
             <p className='descr'>Սուրբ Գևորգ եկեղեցի (Մուղնի)</p>
             <a href='https://yandex.com/maps/-/CDHOeTiN' target='_blank' rel="noreferrer">Հայաստան, Արագածոտնի մարզ, Աշտարակ <br /> Մուղնի թաղամաս</a>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/octwedding/static/css/main.addee796.css",
-    "main.js": "/octwedding/static/js/main.0a7ba0a5.js",
+    "main.js": "/octwedding/static/js/main.3b46f9d9.js",
     "static/js/453.87019d07.chunk.js": "/octwedding/static/js/453.87019d07.chunk.js",
     "static/media/circle.webp": "/octwedding/static/media/circle.07c97b99f46b0be24a94.webp",
     "static/media/circle-item.webp": "/octwedding/static/media/circle-item.cf2b65ac83788641811d.webp",
@@ -11,11 +11,11 @@
     "static/media/cover-main.webp": "/octwedding/static/media/cover-main.8fd0571948e0fc55c716.webp",
     "index.html": "/octwedding/index.html",
     "main.addee796.css.map": "/octwedding/static/css/main.addee796.css.map",
-    "main.0a7ba0a5.js.map": "/octwedding/static/js/main.0a7ba0a5.js.map",
+    "main.3b46f9d9.js.map": "/octwedding/static/js/main.3b46f9d9.js.map",
     "453.87019d07.chunk.js.map": "/octwedding/static/js/453.87019d07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.addee796.css",
-    "static/js/main.0a7ba0a5.js"
+    "static/js/main.3b46f9d9.js"
   ]
 }
