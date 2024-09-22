@@ -7,8 +7,13 @@
   font-family: sans-serif;
 }
 
+html {
+  width: 100%;
+}
+
 body {
   color: rgb(75 85 99);
+  width: 100%;
 }
 
 .cover {
@@ -56,11 +61,13 @@ body {
 .kjsadbf {
   background-color: rgb(122 142 133);
   height: 24rem;
+  padding: 0 2rem;
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;
   flex-direction: column;
+  text-align: center;
 }
 
 .kjsadbf h4 {
@@ -119,4 +126,26 @@ body {
 .info-item a {
   cursor: pointer;
   color: rgb(75 85 99);
+}
+
+@media screen and (max-width: 550px) {
+  .cover .cover-title {
+    width: 400px;
+    height: 400px;
+  }
+
+  .cover h3 {
+    font-size: 1.8rem;
+  }
+}
+
+@media screen and (max-width: 401px) {
+  .cover .cover-title {
+    width: 350px;
+    height: 350px;
+  }
+
+  .cover h3 {
+    font-size: 1.6rem;
+  }
 }
