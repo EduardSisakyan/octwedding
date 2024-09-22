@@ -12,7 +12,7 @@ body {
 }
 
 .cover {
-  background: url("https://istudio.am/static/media/cover-main.8fd0571948e0fc55c716.webp") no-repeat center center/cover;
+  background: url("./images/cover-main.webp") no-repeat center center/cover;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -21,14 +21,13 @@ body {
 }
 
 .cover .cover-title {
-  background: url("https://istudio.am/static/media/circle.07c97b99f46b0be24a94.webp") no-repeat center center/contain;
+  background: url("./images/circle.webp") no-repeat center center/contain;
   width: 500px;
   height: 500px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  /* https://istudio.am/static/media/circle.07c97b99f46b0be24a94.webp */
 }
 
 .cover h3 {
@@ -74,7 +73,7 @@ body {
 }
 
 .info {
-  background: url("https://istudio.am/static/media/cover-main.8fd0571948e0fc55c716.webp") no-repeat center center/cover;
+  background: url("./images/cover-main.webp") no-repeat center center/cover;
 }
 
 .list {
@@ -101,7 +100,7 @@ body {
 }
 
 .info-item .top {
-  background: url("https://istudio.am/static/media/circle-old.cf2b65ac83788641811d.webp") no-repeat center center/cover;
+  background: url("./images/circle-item.webp") no-repeat center center/cover;
   display: flex;
   align-items: center;
   justify-content: center;

@@ -1,6 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 import { useEffect, useState } from 'react';
+import Img1 from './images/1.webp';
+import Img2 from './images/2.webp';
+import Img3 from './images/3.webp';
 
 const getTimeUntilDate = (targetDate) => {
   const now = new Date();
@@ -75,7 +77,7 @@ function App() {
         <div className='list'>
           <div className='info-item'>
             <div className='top'>
-              <img src='https://istudio.am/static/media/timeline-1.91ad25ee83cca22820eb.webp' alt='' />
+              <img src={Img1} alt='' />
             </div>
             <h4>ՊՍԱԿԻ ԱՐԱՐՈՂՈՒԹՅՈՒՆ</h4>
             <p className='time'>Ժամը 13:30-ին</p>
@@ -84,7 +86,7 @@ function App() {
           </div>
           <div className='info-item'>
             <div className='top'>
-              <img src='https://istudio.am/static/media/timeline-3.a36ae714d90a260cec09.webp' alt='' />
+              <img src={Img2} alt='' />
             </div>
             <h4>ՀԱՐՍԱՆՅԱՑ ԽՆՋՈՒՅՔ</h4>
             <p className='time'>Ժամը 17:00-ին</p>
@@ -93,7 +95,7 @@ function App() {
           </div>
           <div className='info-item'>
             <div className='top'>
-              <img src='https://istudio.am/static/media/timeline-4.37ad2a7bccf31b21a317.webp' alt='' />
+              <img src={Img3} alt='' />
             </div>
             <h4>ՏՈՐԹԻ ԱՐԱՐՈՂՈՒԹՅՈՒՆ</h4>
             <p className='time'>Ժամը 22:00-ին</p>
