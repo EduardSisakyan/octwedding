@@ -93,13 +93,13 @@ function App() {
             <p className='descr'>Ohana Yvn</p>
             <a href='https://yandex.com/maps/-/CDHOmO4r' target='_blank' rel="noreferrer">Կոտայքի մարզ, Ջրվեժ</a>
           </div>
-          <div className='info-item'>
+          {/* <div className='info-item'>
             <div className='top'>
               <img src={Img3} alt='' />
             </div>
             <h4>ՏՈՐԹԻ ԱՐԱՐՈՂՈՒԹՅՈՒՆ</h4>
             <p className='time'>Ժամը 22:00-ին</p>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
